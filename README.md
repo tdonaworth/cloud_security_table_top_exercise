@@ -2,7 +2,7 @@
 A list of table-top exercises to discuss for cloud security readiness. Most are collected from readings on the Internet, some are created from actual incidents or events, others are simply for fun.
 
 ## Sources
-* https://levelup.gitconnected.com/cloud-security-table-top-exercises-629d353c268e
+* Matt Fuller - https://levelup.gitconnected.com/cloud-security-table-top-exercises-629d353c268e
 
 # Exercises
 
